@@ -1,2 +1,2 @@
-# 8_Bit_Adder_Verilog
-8-bit adder design using verilog
+# Adder_Verilog
+Digital adder design using verilog
